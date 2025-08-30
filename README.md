@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rrr-bit00&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrr-bit00&layout=compact&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rrr-bit00)](https://git.io/streak-stats)
 ---
 
 # 🛠 Tech Stack
