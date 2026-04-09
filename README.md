@@ -1,37 +1,47 @@
 # Hi there, I'm rrr-bit00 👋
 
-# 📊 GitHub Stats
+Backend-first student developer from Japan.  
+Building full-stack web apps with **FastAPI / Next.js / PostgreSQL**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rrr-bit00&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrr-bit00&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rrr-bit00)](https://git.io/streak-stats)
+日本で学んでいる、バックエンド寄りの学生エンジニアです。  
+**FastAPI / Next.js / PostgreSQL** を使って、フルスタックのWebアプリを作っています。
+
+- Interested in backend development, API design, and maintainable architecture
+- Currently learning algorithms, Docker, and full-stack development
+
+- バックエンド開発、API設計、保守しやすい設計に関心があります
+- 現在はアルゴリズム、Docker、フルスタック開発を学習中です
+
 ---
 
-# 🛠 Tech Stack
+## 📊 GitHub Stats
 
-## 🖥 Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rrr-bit00&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrr-bit00&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rrr-bit00&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 🎨 Frontend & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+---
 
-## 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+## 🛠 Tech Stack
 
-## ⚙️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### Backend & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi&perline=6)](https://skillicons.dev)
 
+### Frontend & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nextjs,js,react,html,css,tailwind&perline=6)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres&perline=6)](https://skillicons.dev)
+
+### Tools & Others
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,neovim&perline=6)](https://skillicons.dev)
+
+## Notes / 補足
+- Built authentication with JWT + httpOnly Cookie  
+  JWT と httpOnly Cookie を使った認証を実装
+
+- Deployed apps with Vercel and Render  
+  Vercel と Render を使ってアプリをデプロイ
+
+- Set up basic CI with GitHub Actions  
+  GitHub Actions で基本的な CI を設定
