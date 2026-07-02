@@ -1,16 +1,14 @@
-# Hi there, I'm rrr-bit00 👋
+# Hi, I'm rrr-bit00 👋
 
-Backend-first student developer from Japan.  
-Building full-stack web apps with **FastAPI / Next.js / PostgreSQL**.
+I'm interested in backend development, API design, databases, and maintainable software design.
 
-日本で学んでいる、バックエンド寄りの学生エンジニアです。  
-**FastAPI / Next.js / PostgreSQL** を使って、フルスタックのWebアプリを作っています。
+This GitHub is where I keep my learning, experiments, and personal development projects.
 
-- Interested in backend development, API design, and maintainable architecture
-- Currently learning algorithms, Docker, and full-stack development
+---
 
-- バックエンド開発、API設計、保守しやすい設計に関心があります
-- 現在はアルゴリズム、Docker、フルスタック開発を学習中です
+バックエンド開発、API設計、データベース、保守しやすい設計に関心があります。
+
+このGitHubでは、学習・実験・個人開発の記録をまとめています。
 
 ---
 
@@ -24,24 +22,14 @@ Building full-stack web apps with **FastAPI / Next.js / PostgreSQL**.
 
 ## 🛠 Tech Stack
 
-### Backend & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi&perline=6)](https://skillicons.dev)
+### Backend & Languages
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,go&perline=6)](https://skillicons.dev)
 
-### Frontend & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nextjs,js,react,html,css,tailwind&perline=6)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,html,css,tailwind&perline=6)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres&perline=6)](https://skillicons.dev)
 
-### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,neovim&perline=6)](https://skillicons.dev)
-
-## Notes / 補足
-- Built authentication with JWT + httpOnly Cookie  
-  JWT と httpOnly Cookie を使った認証を実装
-
-- Deployed apps with Vercel and Render  
-  Vercel と Render を使ってアプリをデプロイ
-
-- Set up basic CI with GitHub Actions  
-  GitHub Actions で基本的な CI を設定
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,neovim&perline=6)](https://skillicons.dev)
